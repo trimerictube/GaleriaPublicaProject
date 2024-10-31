@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GaleriaPública" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#BCA5BE</item>
+        <item name="colorSecondary">#FFFFDA</item>
+    </style>
+
+    <style name="Theme.GaleriaPública" parent="Base.Theme.GaleriaPública" />
+</resources>
